@@ -19,6 +19,8 @@ Ouvre **[`A-LIRE/0-COMMENCER-ICI.md`](A-LIRE/0-COMMENCER-ICI.md)** — tout est 
 
 Tous ces documents existent aussi en **PDF imprimables** dans [`A-LIRE/PDF/`](A-LIRE/PDF/).
 
+**[`A-LIRE/PROMPT-A-COPIER.md`](A-LIRE/PROMPT-A-COPIER.md)** — le prompt à copier-coller pour faire régénérer tout ce dossier depuis zéro dans une nouvelle conversation (avec mes informations déjà remplies).
+
 ---
 
 ## Le reste du dépôt
