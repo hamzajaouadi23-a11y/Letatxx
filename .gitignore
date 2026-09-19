@@ -1,0 +1,10 @@
+# Fichiers générés — régénérables en une commande : bash outils/run.sh all
+reorientation-2026/outils/generes/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Système
+.DS_Store
+Thumbs.db

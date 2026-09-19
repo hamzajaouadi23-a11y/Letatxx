@@ -1,0 +1,16 @@
+{
+  "_comment": "Dates butoirs utilisées par le tableau de bord, les relances et le plan d'action. Corrige-les dès que l'IFC ou la scolarité AMU te confirme une date exacte.",
+  "date_limite_amu": "2026-10-20",
+  "date_limite_amu_officielle": "2026-10-24",
+  "date_limite_ifc": "2026-10-31",
+  "date_rentree_ifc": "",
+  "date_limite_contrat_apprentissage": "2026-12-31",
+  "jours_avant_reponse_ifc": 7,
+  "seuils_relance_jours": {
+    "contacte": 4,
+    "envoye": 4,
+    "relance1": 10,
+    "relance2": 20,
+    "entretien": 3
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "Remplis ce fichier UNE SEULE FOIS. Tous les documents et e-mails générés reprendront ces valeurs. Ne mets ici que des informations réelles : un CV ou une lettre contenant une invention se retourne toujours contre toi en entretien.",
+
+  "prenom": "",
+  "nom": "",
+  "adresse": "",
+  "code_postal": "",
+  "ville": "",
+  "telephone": "",
+  "email": "",
+  "linkedin": "",
+  "date_naissance": "",
+  "age": "18",
+  "nationalite": "tunisienne",
+  "titre_sejour": "carte de séjour temporaire portant la mention « étudiant »",
+  "titre_sejour_validite": "JJ/MM/AAAA",
+  "permis": "non (à préciser : B, ou en cours)",
+
+  "bac_lycee": "",
+  "bac_annee": "2026",
+  "bac_specialites": "Mathématiques et NSI",
+  "bac_mention": "",
+  "fac_actuelle": "Licence 1 Économie-Gestion — Aix-Marseille Université (FEG, campus Colbert), réorientation en cours",
+
+  "ecole": "IFC Marseille — BTS Commerce International (diplôme d'État, niveau 5, 120 ECTS)",
+  "rythme": "2 jours en formation / 3 jours en entreprise",
+  "duree_contrat": "24 mois",
+  "date_rentree_ifc": "à confirmer avec l'IFC",
+  "disponibilite": "immédiate",
+  "zone": "Marseille, Aix-en-Provence, étang de Berre",
+
+  "niveau_anglais": "",
+  "_niveau_anglais_aide": "Indique ton niveau réel (A2, B1, B2, C1) — et passe un test gratuit (EF SET) pour pouvoir l'écrire noir sur blanc sur le CV. Tant que ce champ est vide, il apparaît sous la forme ⟦NIVEAU_ANGLAIS⟧ dans les textes générés.",
+  "niveau_arabe": "courant (lu, écrit, parlé)",
+  "niveau_francais": "courant (scolarité française)",
+  "crm": "aucun pour l'instant — à remplacer si tu en connais un (HubSpot, Salesforce, Zoho…)",
+
+  "experiences": [
+    {
+      "periode": "2025",
+      "poste": "[poste ou activité réelle : job d'été, aide en entreprise, bénévolat, vente, caisse, soutien scolaire…]",
+      "entreprise": "[nom]",
+      "ville": "[ville]",
+      "detail": "[2 à 3 verbes d'action + un résultat chiffré si possible]"
+    }
+  ],
+
+  "projets": [
+    "[Projet NSI : ce que tu as construit, avec quelles technologies, pour quel résultat]",
+    "[Second projet ou travail de groupe]"
+  ],
+
+  "centres_interet": "[3 lignes maximum : sport, langues, commerce, voyages, associations…]",
+
+  "points_forts": [
+    "arabe courant, atout direct sur les flux France-Maghreb",
+    "rigueur chiffrée (spécialité mathématiques)",
+    "automatisation : Excel avancé, Python, SQL",
+    "disponibilité immédiate 3 jours par semaine",
+    "connaissance du marché tunisien et du négoce de produits méditerranéens"
+  ],
+
+  "apport_relance": "[une information utile à l'entreprise, trouvée sur son site ou dans son actualité : nouvelle ligne, nouveau marché, recrutement, salon professionnel…]"
+}
