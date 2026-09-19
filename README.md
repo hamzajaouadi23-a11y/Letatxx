@@ -1,26 +1,36 @@
 # Letatxx
 
-Dépôt de travail personnel.
+## 👉 COMMENCE ICI : dossier `A-LIRE/`
 
-## 📌 Dossier en cours : réorientation 2026-2027
+**Réorientation Licence Économie-Gestion (AMU) → BTS Commerce International en alternance (IFC Marseille).**
+Priorité : trouver l'entreprise d'accueil.
 
-**[→ `reorientation-2026/`](reorientation-2026/README.md)** — passage de la Licence 1 Économie-Gestion (Aix-Marseille Université, FEG) au **BTS Commerce International en alternance** (IFC Marseille), avec pour priorité immédiate la **recherche d'une entreprise d'accueil** sur Marseille / Aix-en-Provence / étang de Berre.
+Ouvre **[`A-LIRE/0-COMMENCER-ICI.md`](A-LIRE/0-COMMENCER-ICI.md)** — tout est expliqué là, dans l'ordre.
 
-Le dossier contient :
+| Document | Contenu |
+|---|---|
+| [`0-COMMENCER-ICI`](A-LIRE/0-COMMENCER-ICI.md) | Les 3 choses à faire lundi matin + les 2 dates à ne pas rater |
+| [`1-MON-PLAN-JOUR-PAR-JOUR`](A-LIRE/1-MON-PLAN-JOUR-PAR-JOUR.md) | Le calendrier du 22 septembre au 24 octobre, jour par jour |
+| [`2-LES-ENTREPRISES-A-APPELER`](A-LIRE/2-LES-ENTREPRISES-A-APPELER.md) | 12 cibles avec **adresses et téléphones vérifiés**, la phrase à dire, 2 tournées porte-à-porte |
+| [`3-LES-MAILS-A-ENVOYER`](A-LIRE/3-LES-MAILS-A-ENVOYER.md) | 8 mails déjà écrits : IFC, entreprises, relances, recommandation par ton père |
+| [`4-LA-LETTRE-POUR-LUNIVERSITE`](A-LIRE/4-LA-LETTRE-POUR-LUNIVERSITE.md) | Récupérer les 2 902 € : lettre complète, papiers, pièges, dates |
+| [`5-MON-CV`](A-LIRE/5-MON-CV.md) | Le CV d'une page, déjà rédigé |
+| [`6-MES-ENTRETIENS`](A-LIRE/6-MES-ENTRETIENS.md) | Le pitch, 20 questions/réponses, le kit technique import-export |
 
-- le **plan d'action daté** du 19 septembre au 31 décembre 2026 ;
-- le **kit complet de prospection** : 38 entreprises cibles, CV, 4 lettres de motivation, e-mails et séquence de relances, argumentaire financier pour l'employeur, préparation d'entretien (20 questions/réponses + kit technique import-export) ;
-- les **démarches IFC** (candidature, attestation d'inscription) et **AMU** (annulation d'inscription + remboursement des 2 902 €, critère applicable, délais, pièges) ;
-- des **outils automatisés** (Python, sans dépendance lourde) : tableau de bord web, générateur de candidatures et de CV, gestion des relances, liens de recherche pré-remplis, export PDF.
+Tous ces documents existent aussi en **PDF imprimables** dans [`A-LIRE/PDF/`](A-LIRE/PDF/).
 
-```bash
-cd reorientation-2026
-bash outils/run.sh all          # génère CV, candidatures, liens et PDF
-python3 outils/dashboard.py     # tableau de bord → http://localhost:8080
-```
+---
 
-Détails : [`reorientation-2026/README.md`](reorientation-2026/README.md) et [`reorientation-2026/outils/README.md`](reorientation-2026/outils/README.md).
+## Le reste du dépôt
 
-## 📄 Autre fichier du dépôt
+- **`reorientation-2026/`** — annexes détaillées : plan B et C (autres écoles, BTS public, démarrage sans employeur), argumentaire chiffré pour convaincre un employeur, méthode pour trouver 100 entreprises, dossier de candidature IFC, procédure AMU complète, et un jeu d'outils optionnels (tableau de suivi des candidatures, générateur de CV et de mails, export PDF). **Tu n'as pas besoin de ces outils pour avancer** : les 7 documents ci-dessus suffisent.
+- **`COURSWB.pdf`** — fichier PDF protégé par mot de passe, non ouvert.
 
-- `COURSWB.pdf` — document PDF chiffré par mot de passe (non lisible en l'état).
+---
+
+## Les 2 dates critiques
+
+- **20 octobre 2026** : dernier jour pour déposer à Aix-Marseille Université la demande d'annulation d'inscription **et** de remboursement des 2 902 €.
+- **31 octobre 2026** : fin des candidatures à l'IFC, dans la limite des places disponibles.
+
+**Règle d'or : ne jamais démissionner de la fac avant d'avoir l'attestation d'inscription de l'IFC.**
